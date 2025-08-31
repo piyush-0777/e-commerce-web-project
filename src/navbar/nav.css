@@ -1,0 +1,27 @@
+.nav-container{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 2px;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    position: static;
+    top: 10%;
+    width: 80vw;
+   margin-left: 15vw;
+}
+
+.search-container{
+    padding: 20px;
+}
+.search-container input {
+    width: 20rem;
+    height: 1.5rem;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.profile-container{
+    width: 10vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
